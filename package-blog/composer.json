@@ -1,0 +1,19 @@
+{
+    "name": "skillshare/package-blog",
+    "description": "This is a blog package that can be installable for Laravel App",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Skillshare\\PackageBlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Kazim",
+            "email": "muhammad@seamlesshr.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
