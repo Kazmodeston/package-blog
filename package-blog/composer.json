@@ -8,12 +8,10 @@
             "Skillshare\\PackageBlog\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Muhammad Kazim",
-            "email": "muhammad@seamlesshr.com"
-        }
-    ],
+    "authors": [{
+        "name": "Muhammad Kazim",
+        "email": "muhammad@seamlesshr.com"
+    }],
     "minimum-stability": "dev",
     "require": {}
 }
