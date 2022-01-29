@@ -30,7 +30,7 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/",
-            "Skillshare\\PackageBlog\\": "package-blog/src/"
+            "Skillshare\\PackageBlog\\": "package-blog/blog/src/"
         }
     },
     "scripts": {
