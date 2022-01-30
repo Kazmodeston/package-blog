@@ -1,0 +1,19 @@
+{
+    "name": "skillshare/auth-package",
+    "description": "This package is for User Authentication",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Skillshare\\AuthPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Kazim",
+            "email": "muhammad@seamlesshr.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
