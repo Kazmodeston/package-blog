@@ -29,7 +29,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests/"
+            "Tests\\": "tests/",
+            "Skillshare\\AuthPackage\\": "packages/AuthPackage/src/"
         }
     },
     "scripts": {
